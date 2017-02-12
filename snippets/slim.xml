@@ -21,7 +21,7 @@
   <project path="external/tinyxml2" name="SlimRoms/android_external_tinyxml2" />
   <project path="external/wpa_supplicant_8" name="SlimRoms/android_external_wpa_supplicant_8" />
   <project path="frameworks/av" name="SlimRoms/frameworks_av" />
-  <project path="frameworks/base" name="SlimRoms/frameworks_base" />
+  <project path="frameworks/base" name="djpohly/frameworks_base" />
   <project path="frameworks/native" name="SlimRoms/frameworks_native" />
   <project path="frameworks/opt/net/ims" name="SlimRoms/frameworks_opt_net_ims" />
   <project path="frameworks/opt/net/wifi" name="SlimRoms/frameworks_opt_net_wifi" />
@@ -55,7 +55,7 @@
   <project path="packages/apps/Messaging" name="SlimRoms/packages_apps_Messaging" />
   <project path="packages/apps/Nfc" name="SlimRoms/packages_apps_Nfc" />
   <project path="packages/apps/PhoneCommon" name="SlimRoms/packages_apps_PhoneCommon" />
-  <project path="packages/apps/Settings" name="SlimRoms/packages_apps_Settings" />
+  <project path="packages/apps/Settings" name="djpohly/packages_apps_Settings" />
   <project path="packages/apps/Snap" name="SlimRoms/packages_apps_Snap" />
   <project path="packages/apps/Stk" name="SlimRoms/packages_apps_Stk" />
   <project path="packages/apps/UnifiedEmail" name="SlimRoms/packages_apps_UnifiedEmail" />
@@ -131,8 +131,8 @@
   <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
   <project path="packages/apps/SlimWallpapers" name="SlimRoms/packages_apps_SlimWallpapers" />
   <project path="platform_manifest" name="SlimRoms/platform_manifest" />
-  <project path="vendor/slim" name="SlimRoms/vendor_slim" />
-  <project path="frameworks/opt/slim" name="SlimRoms/frameworks_opt_slim" />
+  <project path="vendor/slim" name="djpohly/vendor_slim" />
+  <project path="frameworks/opt/slim" name="djpohly/frameworks_opt_slim" />
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
 
 </manifest>
